@@ -34,3 +34,6 @@
 [submodule "Aspire.Telemetry"]
 	path = src/Aspire.Telemetry
 	url = https://github.com/YouAnd-I/Aspire.Telemetry
+[submodule "Aspire.AppHost"]
+	path = src/Aspire.AppHost
+	url = https://github.com/YouAnd-I/Aspire.AppHost

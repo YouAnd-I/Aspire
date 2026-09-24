@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Aspire.AppHost/" />
+  <Folder Name="/Aspire.AppHost/src/">
+    <Project Path="Aspire.AppHost/src/Aspire.AppHost.csproj" />
+  </Folder>
   <Folder Name="/Aspire.Container/" />
   <Folder Name="/Aspire.Container/src/">
     <Project Path="Aspire.Container/src/Aspire.Container.csproj" />
