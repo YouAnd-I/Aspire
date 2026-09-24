@@ -1,0 +1,36 @@
+[submodule "Aspire.Container"]
+	path = src/Aspire.Container
+	url = https://github.com/YouAnd-I/Aspire.Container
+[submodule "Aspire.Deployment"]
+	path = src/Aspire.Deployment
+	url = https://github.com/YouAnd-I/Aspire.Deployment
+[submodule "Aspire.Endpoint"]
+	path = src/Aspire.Endpoint
+	url = https://github.com/YouAnd-I/Aspire.Endpoint
+[submodule "Aspire.Environment"]
+	path = src/Aspire.Environment
+	url = https://github.com/YouAnd-I/Aspire.Environment
+[submodule "Aspire.Executable"]
+	path = src/Aspire.Executable
+	url = https://github.com/YouAnd-I/Aspire.Executable
+[submodule "Aspire.Health"]
+	path = src/Aspire.Health
+	url = https://github.com/YouAnd-I/Aspire.Health
+[submodule "Aspire.Hosting"]
+	path = src/Aspire.Hosting
+	url = https://github.com/YouAnd-I/Aspire.Hosting
+[submodule "Aspire.Lifecycle"]
+	path = src/Aspire.Lifecycle
+	url = https://github.com/YouAnd-I/Aspire.Lifecycle
+[submodule "Aspire.Resource"]
+	path = src/Aspire.Resource
+	url = https://github.com/YouAnd-I/Aspire.Resource
+[submodule "Aspire.Secret"]
+	path = src/Aspire.Secret
+	url = https://github.com/YouAnd-I/Aspire.Secret
+[submodule "Aspire.Storage"]
+	path = src/Aspire.Storage
+	url = https://github.com/YouAnd-I/Aspire.Storage
+[submodule "Aspire.Telemetry"]
+	path = src/Aspire.Telemetry
+	url = https://github.com/YouAnd-I/Aspire.Telemetry

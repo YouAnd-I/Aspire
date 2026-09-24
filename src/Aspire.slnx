@@ -1,0 +1,50 @@
+<Solution>
+  <Folder Name="/Aspire.Container/" />
+  <Folder Name="/Aspire.Container/src/">
+    <Project Path="Aspire.Container/src/Aspire.Container.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Deployment/" />
+  <Folder Name="/Aspire.Deployment/src/">
+    <Project Path="Aspire.Deployment/src/Aspire.Deployment.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Endpoint/" />
+  <Folder Name="/Aspire.Endpoint/src/">
+    <Project Path="Aspire.Endpoint/src/Aspire.Endpoint.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Environment/" />
+  <Folder Name="/Aspire.Environment/src/">
+    <Project Path="Aspire.Environment/src/Aspire.Environment.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Executable/" />
+  <Folder Name="/Aspire.Executable/src/">
+    <Project Path="Aspire.Executable/src/Aspire.Executable.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Health/" />
+  <Folder Name="/Aspire.Health/src/">
+    <Project Path="Aspire.Health/src/Aspire.Health.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Hosting/" />
+  <Folder Name="/Aspire.Hosting/src/">
+    <Project Path="Aspire.Hosting/src/Aspire.Hosting.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Lifecycle/" />
+  <Folder Name="/Aspire.Lifecycle/src/">
+    <Project Path="Aspire.Lifecycle/src/Aspire.Lifecycle.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Resource/" />
+  <Folder Name="/Aspire.Resource/src/">
+    <Project Path="Aspire.Resource/src/Aspire.Resource.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Secret/" />
+  <Folder Name="/Aspire.Secret/src/">
+    <Project Path="Aspire.Secret/src/Aspire.Secret.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Storage/" />
+  <Folder Name="/Aspire.Storage/src/">
+    <Project Path="Aspire.Storage/src/Aspire.Storage.csproj" />
+  </Folder>
+  <Folder Name="/Aspire.Telemetry/" />
+  <Folder Name="/Aspire.Telemetry/src/">
+    <Project Path="Aspire.Telemetry/src/Aspire.Telemetry.csproj" />
+  </Folder>
+</Solution>
